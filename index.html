@@ -7,9 +7,9 @@ layout: default
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{page.title}}</title>
   </head>
   <body>
-    <h1 class="text-blue-500 text-3xl">{{ "Hello World!" | downcase }}</h1>
+    {% include landing_page.html %}
+    {% include services.html %}
 </body>
 </html>

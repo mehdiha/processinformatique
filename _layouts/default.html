@@ -4,9 +4,15 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/fontello/css/process.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
   </head>
-  <body>
-    {% include navigation.html %}
+  <body class="bg-blue-100">
     {{ content }}
+    <script src='https://unpkg.com/aos@next/dist/aos.js'></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>
