@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="process" horiz-adv-x="1000" >
+<font-face font-family="process" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="circle-arrows-1" unicode="&#xe800;" d="M371 824c-30-8-77-27-105-41-64-35-163-133-198-199-77-142-77-325 0-468 34-65 133-164 198-198 143-77 325-77 468 0 65 34 164 133 198 198 77 143 77 325 0 468-34 64-132 163-198 198-104 56-249 73-363 42z m245-18c208-55 354-243 354-456 0-131-44-235-139-331-97-97-196-138-331-139-214 0-400 145-456 354-65 242 89 504 335 572 62 17 174 17 237 0z m-252-340c-5-13 10-35 60-84l66-67 72 72c60 60 69 73 54 79-13 5-32-7-72-47l-54-53-60 59c-50 49-60 56-66 41z m-4-189c0-7 29-42 65-77l65-65 72 72c60 60 69 73 54 79-13 5-32-7-72-47l-54-53-53 52c-52 51-77 64-77 39z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
